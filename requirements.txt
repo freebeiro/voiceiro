@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiofiles
+python-multipart
+supabase-py
+python-dotenv
+SpeechRecognition
+pyaudio
+pygame 

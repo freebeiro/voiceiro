@@ -1,0 +1,9 @@
+# Ignorar tudo
+*
+
+# Exceto estes arquivos
+!sample_collector_web.py
+!requirements.txt
+!README.md
+!setup.sh
+!.gitignore
